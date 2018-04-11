@@ -11,7 +11,7 @@ My current ambition is to work in Copenhagen either starting with a student job 
 
 
 ## Language
-My mother thong is Swedish but I have both studied and work using English.
+My mother tongue is Swedish but I have both studied and work using English.
 Even though I don't speak Danish fluently I understand the language very well and have taken an evening course in the Danish language for Scandinavians.
 
 
