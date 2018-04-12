@@ -7,7 +7,7 @@ The final semester in autumn 2018 consists of internship and writing thesis. I'm
 
 As a person I see myself as very open, positive and flexible.
 I have more than four years of working experience within the IT-field as a programmer in Sweden.
-My current ambition is to work in Copenhagen either starting with a student job around two days per week or doing internship (September, October and November 2018).
+My current ambition is to work in Copenhagen either starting with a student job around two days per week or doing internship (1 July - 26 October 2018).
 
 
 ## Language
