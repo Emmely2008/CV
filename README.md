@@ -51,3 +51,8 @@ Resume:
 What I became particularly good at:
 
 - This is where I learned web development and programming by working with it practically.
+
+## Language Skills
+- Swedish (mother tongue)
+- English (fluent
+- Danish (fluent) - I have worked in Denmark with the Danish language for three years.
