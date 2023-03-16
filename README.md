@@ -4,9 +4,9 @@ Drogdensgade 14, st th
 +46735147515
 e.a.c.l@hotmail.com
 
-##Work experience
+## Work experience
 
-####FRONTEND DEVELOPER - NOA IGNITE
+#### FRONTEND DEVELOPER - NOA IGNITE
 
 June 2021 - February 2023
 
@@ -21,7 +21,7 @@ What I became particularly good at:
 
 - I developed my skills in web CSS-animation.
 
-####FRONTEND DEVELOPER - MERKEL
+#### FRONTEND DEVELOPER - MERKEL
 
 February 2019 - May 2021
 
@@ -34,7 +34,7 @@ What I became particularly good at:
 
 - ReactJS
 
-####WEB DEVELOPER - NEWSEED IT-SOLUTIONS
+#### WEB DEVELOPER - NEWSEED IT-SOLUTIONS
 
 December 2014 - December 2018
 
