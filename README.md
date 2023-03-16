@@ -54,5 +54,5 @@ What I became particularly good at:
 
 ## Language Skills
 - Swedish (mother tongue)
-- English (fluent
+- English (fluent)
 - Danish (fluent) - I have worked in Denmark with the Danish language for three years.
